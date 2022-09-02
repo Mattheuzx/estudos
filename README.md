@@ -4,7 +4,7 @@
 
 # Rocketseat
 ## Trilha Conectar
-### 1 - Guia Estelar de Programação - FEITO
+### 1 - Guia Estelar de Programação        -Ended
 ### 3 - Internet Roteadores e Servidores
 ### 5 - Linguagem de Programação
 ### 6 - Tipos de Aplicações WEB
